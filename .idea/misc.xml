@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v23/delete_gradient.xml" value="0.1785" />
+        <entry key="app/src/main/res/drawable-v23/gradient_fab.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable-v24/round_outline.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/delete_gradient.xml" value="0.1785" />
+        <entry key="app/src/main/res/drawable/gradient.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/gradient_circle.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/gradient_fab.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/gradient_tf.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1785" />
+        <entry key="app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.1995" />
+        <entry key="app/src/main/res/drawable/receiver_element.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/sender_element.xml" value="0.1985" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/activity_message.xml" value="0.4425925925925926" />
+        <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.22607260726072606" />
+        <entry key="app/src/main/res/layout/fragment_message.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/receiver_element.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/sender_element.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/user_element.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/bottom_app_bar.xml" value="0.19166666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

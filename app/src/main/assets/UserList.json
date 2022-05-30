@@ -1,0 +1,36 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Antonia Berger",
+      "imageUrl": "",
+      "lastMessage": "Lorem imp",
+      "lastSeen": "4min",
+      "Message Count": 2
+    },
+    {
+      "id": 2,
+      "name": "Ben",
+      "imageUrl": "",
+      "lastMessage": "Lol",
+      "lastSeen": "1hr",
+      "Message Count": 23
+    },
+    {
+      "id": 3,
+      "name": "Henry",
+      "imageUrl": "",
+      "lastMessage": "Lorem imp",
+      "lastSeen": "15min",
+      "Message Count": 4
+    },
+    {
+      "id": 4,
+      "name": "Benny",
+      "imageUrl": "",
+      "lastMessage": "Hey",
+      "lastSeen": "4min",
+      "Message Count": 0
+    }
+  ]
+}
